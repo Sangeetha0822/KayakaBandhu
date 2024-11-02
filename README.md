@@ -1,7 +1,29 @@
-# MGNREGA-for-Rural-People-Kayaka-Bandhu
-The implementation of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in rural parts of India. This project aims to simplify the registration process for job requirements, reduce corruption, and improve the efficiency of handling work assignments and payments within the system. The primary objective is to enable rural households in electronically registering their job preferences, therefore eliminating the need for paper-based applications and reducing administrative expenses and probable errors. By constantly monitoring the submission and acceptance of job requests, the program seeks to improve openness and responsibility in the registration and allocation processes, therefore lowering the incidence of dishonest behavior.Furthermore, the aim of the program is to improve the efficiency of Rozgar Sewaks by helping them to properly handle their tasks. Real-time data input and access help to do this, thereby improving the task allocation and creation of the work plans. Furthermore, it provides Gram Panchayat staff with current data to improve administration and monitoring of performance, therefore supporting government officials in developing policies based on accurate facts.
+# Kayaka Bandhu - MNREGA Mobile Application
 
+Kayaka Bandhu is a mobile application designed to streamline the process of job card management, work demand, and other services for rural workers under the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) scheme. The application enhances transparency, efficiency, and accessibility for rural workers.
 
-OUR SOLUTION
-	The Kayaka Bandhu Android application offers a whole and innovative solution to solve the problems and drawbacks underlined in the implementation of the Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) in rural India.Using technology will help us to create a transparent, readily available platform for all those involved in the MGNREGA process that is also efficient. The application provides an easy-to-use interface meant to fit the variety of digital knowledge acquired by people living in rural areas.
- 
+## Features
+
+- **User Registration and Authentication**: Secure and efficient registration system for rural workers.
+- **Digital Job Card Issuance**: Streamlined and digital issuance of job cards.
+- **Work Demand Management**: Allows users to request work and view updates in real-time.
+- **Profile Management**: Users can view and manage their personal details.
+- **Real-Time Notifications**: Provides real-time updates on work assignments and job card status.
+- **Feedback System**: Collects feedback from users for further improvements.
+
+## Tech Stack
+
+- **Frontend**: XML (for Android layout and UI components)
+- **Backend**: Java
+- **Database**: SQLite (for local data storage and offline capabilities)
+- **Methodology**: Scrum (for iterative development and effective collaboration)
+
+## Architecture
+
+This project uses a clean architecture to ensure modularity and maintainability. Following Uncle Bob Martin's Clean Architecture principles, the application separates business logic from the UI, making the codebase easy to maintain and extend.
+
+## Installation and Setup
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/kayaka-bandhu.git
